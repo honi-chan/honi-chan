@@ -15,16 +15,16 @@ I'm a passionate Backend & DevOps Engineer based in Tokyo, Japan 🇯🇵.
 ---
 
 ### 🏆 GitHub Profile Trophies:
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=gitenghar&theme=flat&column=8)](https://github.com/ryo-ma/github-profile-trophy)
+ 
+[![trophy](https://github-profile-trophy.vercel.app/?username=honi-chan&theme=flat&column=8)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
 ### 📊 GitHub Stats:
 
-![gitenghar's GitHub stats](https://github-readme-stats.vercel.app/api?username=gitenghar&show_icons=true&theme=radical)
+![honi-chan's GitHub stats](https://github-readme-stats.vercel.app/api?username=honi-chan&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gitenghar&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=honi-chan&layout=compact&theme=radical)
 
 ---
 
