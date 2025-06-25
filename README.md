@@ -6,9 +6,9 @@ I'm a passionate Backend & DevOps Engineer based in Tokyo, Japan 🇯🇵.
 
 ### 🛠️ My Tech Stack:
 
-Languages: javascript, php, python, java
-Frameworks: Spring Boot, Laravel, Viewjs
-Cloud & Infra: AWS(Basic)
+- **Languages**: javascript, php, python, java
+- **Frameworks**: Spring Boot, Laravel, Viewjs
+- **Cloud & Infra**: AWS(Basic)
 
 ---
 
